@@ -16,7 +16,3 @@ To have an automation to auto update, remove, replace, add shifts in Calabrio, w
 - After all is done, you can now run the script.
 
 
-## Copyrights.
-Copyright © 2022 Mohamed Hussien.
-
-Sharing this script shall not authorize any users or third part to, quote the code, reverse engineer, decompile, disassemble, reconstruct, decrypt, modify, update, enhance, supplement, translate or adapt the tool to other platform.
